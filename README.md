@@ -2,6 +2,12 @@
 
 Desenvolvido durante o curso Redux: Mutabilidade X Imutabilidade no Redux Toolkit com Immer, na Escola de Tecnologia Alura como parte da formação em React e Redux.
 
+## Principais Tópicos
+
+- `Entenda como o Redux Toolkit muda o estado Redux`
+- `Como mudar o estado com e sem return dentro do Redux Toolkit`
+- `Utilização da biblioteca Immer para escrever estados imutáveis`
+
 ## ✔️ Técnicas e tecnologias utilizadas
 
 - `React`
